@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/mcnulabs/.github/main/profile/nabla.svg" alt="∇" width="120" />
 
-# ∇ MCNU Labs
+# ∇ MOUN HQ
 
 **Follow the gradient.**
 
@@ -19,7 +19,7 @@ One identity across every surface: the pixel **∇** is the monogram, the cyan�
 
 ## ∇ What we build
 
-MCNU Labs is a family of small, focused, **self-hostable** web services. Each one does a single
+MOUN is a family of small, focused, **self-hostable** web services. Each one does a single
 job well, ships **dark-first**, and refuses to track you: no cookies, no fingerprinting, no
 IP storage, no consent banners. One tiny script or one SQLite file — not a platform.
 
